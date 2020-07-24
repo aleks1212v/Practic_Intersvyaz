@@ -1,0 +1,5 @@
+!pip install pymysql
+!pip install pymorphy2
+!pip install emoji
+import nltk
+nltk.download('stopwords')
